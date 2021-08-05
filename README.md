@@ -5,4 +5,4 @@ I'm a self-taught javaScript developer, I like to create things for the web usin
 look at my work at [Portfolio](www.jimmymendy.com)
 
 
-📫 How to reach me: jimmy.mendy@gmail.com
+📫 How to reach me: jimmymendy.dev@gmail.com
